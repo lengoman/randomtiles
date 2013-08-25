@@ -1,0 +1,63 @@
+/* Styles go here */
+
+
+.shape{
+    position:absolute;
+    border:1px solid black;
+    color: white;
+    font-size:20px;
+    text-align:center;
+}
+
+img{
+    float:left;
+    margin:1px;
+}
+
+a, img{
+    font-family:sans-serif;
+    font-weight:bold;
+    -webkit-filter: grayscale(100%) blur(5px);
+    -webkit-transition: -webkit-filter .50s;
+}
+
+a:hover, img:hover{
+    -webkit-filter: none;
+    -webkit-transition: -webkit-filter .50s;
+}
+
+body {background-color:#CCC;font-family:Verdana;}
+		.flex {min-height:300px;margin:0 auto;border:0px solid red;}
+		.flex a {background-color:black;display:block;border-radius:4px;position:absolute;background-repeat:no-repeat;background-position:center;border:3px solid white;cursor:pointer;text-align:left;text-shadow:1px 1px 20px #000;color:white;font-size:18px;font-weight:bold;text-indent:10px;line-height:30px;text-decoration:none;}
+		.shape{
+		    position:absolute;
+		    background: red;
+		    border:1px solid green;
+		    color: white;
+		    font-size:20px;
+		    text-align:center;
+		    margin:1px;
+		}
+	
+
+		
+		
+			[bg=a]{background-image:url(http://farm3.staticflickr.com/2866/9463277689_3fc2f2da4b_o.jpg);}
+			[bg=b]{background-image:url(http://farm6.staticflickr.com/5496/9464210847_bc65e00b90_o.jpg);}
+			[bg=c]{background-image:url(http://farm6.staticflickr.com/5348/9442902767_f4f8f7ec9b_o.jpg);}
+			[bg=d]{background-image:url(http://farm9.staticflickr.com/8316/8002567211_df0869049c.jpg);}
+			[bg=e]{background-image:url(http://farm3.staticflickr.com/2449/3705572046_4337a089fc.jpg);}
+			[bg=f]{background-image:url(http://farm9.staticflickr.com/8198/8184605432_592f95a727.jpg);}
+			[bg=g]{background-image:url(http://farm6.staticflickr.com/5492/9432386897_efa7f9113c.jpg);}
+			[bg=h]{background-image:url(http://farm6.staticflickr.com/5453/9436269687_5db51a352b.jpg);}
+			[bg=i]{background-image:url(http://farm4.staticflickr.com/3667/9442851502_34a3690040.jpg);}
+			[bg=j]{background-image:url(http://farm6.staticflickr.com/5520/9439026265_498e6eef0b.jpg);}
+			[bg=k]{background-image:url(http://farm6.staticflickr.com/5491/9436198204_30c9f7b1ce.jpg);}
+			[bg=l]{background-image:url(http://farm4.staticflickr.com/3827/9437350643_c47242818f.jpg);}
+			[bg=m]{background-image:url(http://farm7.staticflickr.com/6005/5934236984_33d5ab60cf.jpg);}
+			[bg=n]{background-image:url(http://farm6.staticflickr.com/5128/5271953946_afc40cef54.jpg);}
+			[bg=o]{background-image:url(http://farm6.staticflickr.com/5120/5912312735_82e854c645.jpg);}
+			[bg=p]{background-image:url(http://farm6.staticflickr.com/5155/5900386539_c3644b5171.jpg);}
+			[bg=q]{background-image:url(http://farm6.staticflickr.com/5234/5899809123_8b30363eea.jpg);}
+			[bg=r]{background-image:url(http://farm6.staticflickr.com/5045/5221818165_449568dabd.jpg);}
+		
